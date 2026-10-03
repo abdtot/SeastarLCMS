@@ -1,0 +1,6 @@
+{
+  "name": "SeaStar - نظام إدارة مكاتب المحاماة",
+  "description": "نظام وتطبيق موبايل شامل لإدارة مكاتب المحاماة والاستشارات القانونية، القضايا، الجلسات، الموكلين، المستندات، والمالية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
